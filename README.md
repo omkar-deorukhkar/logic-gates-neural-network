@@ -1,4 +1,4 @@
-# or-neural-network
+# logic-gates-neural-network
 
 Hi,
 
